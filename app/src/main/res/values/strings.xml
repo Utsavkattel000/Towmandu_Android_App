@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tow Mandu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="create_your_account">Create your Account</string>
+</resources>

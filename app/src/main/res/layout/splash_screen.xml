@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splash_screen_background">
+
+
+    <ImageView
+        android:id="@+id/splash_screen_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/splash_screen"
+        tools:layout_editor_absoluteX="102dp"
+        tools:layout_editor_absoluteY="310dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="220dp"/>
+    <TextView
+        android:id="@+id/splash_screen_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your Roadside Rescue Partner!"
+        android:textColor="@color/white"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="500dp"
+        android:textSize="25sp"
+        tools:ignore="HardcodedText" />
+</RelativeLayout>
