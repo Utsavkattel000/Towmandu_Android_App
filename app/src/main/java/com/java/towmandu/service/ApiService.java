@@ -9,4 +9,7 @@ import retrofit2.http.POST;
 public interface ApiService {
     @POST("signup") // Endpoint relative to BASE_URL
     Call<String> signup(@Body User user); // Returns plain text ("success" or "failed")
+
+    @POST("login")
+    Call<String> login(@Body User user);
 }
