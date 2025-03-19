@@ -11,7 +11,7 @@ public class ApiClient {
     public static Retrofit getClient() {
         if (retrofit == null) {
             retrofit = new Retrofit.Builder()
-                    .baseUrl(Config.Url) // http://192.168.1.64:8080/api/
+                    .baseUrl(Config.Url) //http://169.254.59.142:8080/api/
                     .addConverterFactory(GsonConverterFactory.create()) // For JSON parsing
                     .build();
         }

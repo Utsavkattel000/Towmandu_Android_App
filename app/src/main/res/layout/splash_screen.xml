@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:importantForAccessibility="no"
-        app:srcCompat="@drawable/splash_screen"
+        app:srcCompat="@drawable/logowhite"
         tools:layout_editor_absoluteX="102dp"
         tools:layout_editor_absoluteY="310dp"
         android:layout_centerHorizontal="true"

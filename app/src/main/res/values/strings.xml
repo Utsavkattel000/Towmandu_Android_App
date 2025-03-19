@@ -11,4 +11,10 @@
     <string name="phone_number">Phone Number</string>
     <string name="already_have_an_account">Already have an account?</string>
     <string name="create_your_account">Create your Account</string>
+    <string name="where_would_you_like_us_to_come">WHERE WOULD YOU LIKE US TO COME?</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="detect_location">Detect Location</string>
+    <string name="just_line">Just Line</string>
+    <string name="vehicle_type">VEHICLE TYPE</string>
 </resources>
